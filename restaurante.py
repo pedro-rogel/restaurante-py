@@ -14,9 +14,9 @@ class Cliente:
         self.email = email
         
 class Dono(Restaurante):
-    def __init__(self, nome,telefone,email) -> None:
-        self.email = email
-        super().__init__(nome, end, telefone, ramo)
+    def __init__(self, nome, end, telefone, ramo) -> None:
+        super().__init__(nome,telefone,email=None)
+        
     
 
 class Funcionario:
