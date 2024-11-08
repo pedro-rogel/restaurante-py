@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gerenciamento de Restaurante com SQLAlchemy
 
 Este projeto é uma aplicação de linha de comando para gerenciar um restaurante, utilizando Python e SQLAlchemy para manipulação de banco de dados. A aplicação permite o cadastro de restaurantes, funcionários, pratos de cardápio, avaliações e oferece funcionalidades avançadas de gerenciamento, como alteração de disponibilidade de pratos e consulta de informações de restaurante.
