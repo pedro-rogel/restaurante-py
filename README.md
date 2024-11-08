@@ -116,3 +116,29 @@ O projeto está organizado em uma estrutura simples, com classes representando a
 Se deseja contribuir com melhorias para o projeto, por favor, faça um fork do repositório, crie uma nova branch para a sua modificação, e envie um pull request. Sugestões para novas funcionalidades ou aprimoramento da estrutura de código são bem-vindas!
 
 ---
+
+
+
+<h1>Para Usuários: </h1>
+
+Este programa é uma aplicação de linha de comando criada para facilitar o gerenciamento de um restaurante. Com ela, você pode controlar desde o cadastro de informações básicas do restaurante até a avaliação de serviços pelos clientes, utilizando uma interface simples e intuitiva. Abaixo estão as principais funcionalidades e seu propósito:
+
+1. **Cadastro de Restaurante**: Permite registrar novos restaurantes com informações como nome, endereço, telefone e ramo. Essa função facilita o gerenciamento de múltiplas unidades ou restaurantes cadastrados no sistema.
+
+2. **Desligamento de Restaurante**: Esta opção remove um restaurante do sistema. Ideal para manter os dados atualizados e evitar informações desnecessárias.
+
+3. **Alteração de Informações do Restaurante**: Caso precise atualizar dados, como um número de telefone ou endereço, essa função permite modificar as informações do restaurante de maneira rápida.
+
+4. **Cadastro e Desligamento de Funcionários**: Permite registrar novos funcionários ou desligar os que não fazem mais parte da equipe, mantendo um controle atualizado sobre o quadro de colaboradores, com informações como CPF, cargo e salário.
+
+5. **Cadastro de Pratos no Cardápio**: Nesta função, você pode adicionar novos pratos ao cardápio com detalhes sobre o prato, como ingredientes, categoria, preço e disponibilidade. É útil para gerenciar o menu e deixar claro quais pratos estão disponíveis.
+
+6. **Avaliação do Restaurante**: Clientes cadastrados podem avaliar o restaurante com uma nota de 0 a 5 e um comentário opcional. Esse feedback ajuda a obter uma visão geral sobre a satisfação do cliente.
+
+7. **Alterar Estado de Disponibilidade dos Pratos**: Caso algum prato precise ser temporariamente retirado ou colocado novamente no cardápio, essa opção permite alternar a disponibilidade do prato, facilitando o gerenciamento em tempo real do cardápio.
+
+8. **Exibir Informações do Restaurante**: Fornece uma visão geral das informações do restaurante, como nome, categoria, endereço, telefone e ramo. É útil para consultas rápidas e para confirmar dados importantes.
+
+O objetivo deste programa é oferecer uma solução prática e acessível para o gerenciamento de um restaurante, centralizando as operações diárias e permitindo que os administradores acompanhem facilmente as informações sobre a equipe, cardápio, avaliações e dados gerais do estabelecimento. A interface simples facilita o uso e torna a aplicação acessível para todos os níveis de experiência com tecnologia. 
+
+Com esses recursos, o programa oferece uma base sólida para o controle e aprimoramento da experiência do cliente e da eficiência operacional do restaurante.
