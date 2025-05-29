@@ -24,8 +24,8 @@ Este projeto é uma aplicação de linha de comando para gerenciar um restaurant
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/pedro-rogel/restaurantes-py.git
+   cd restaurantes-py
    ```
 
 2. Instale as dependências:
@@ -35,7 +35,7 @@ Este projeto é uma aplicação de linha de comando para gerenciar um restaurant
 
 3. Execute o arquivo principal para iniciar a aplicação:
    ```bash
-   python nome_do_arquivo.py
+   python app.py
    ```
 
 ## Funcionalidades
